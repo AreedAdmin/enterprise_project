@@ -5,4 +5,18 @@
 *.pdf
 
 
+#cache files
+*.cache
+
+#pickle files
+*.pkl
+
+#h5 files
+*.h5
+
+#json files
+*.json
+
+#txt files
+*.txt
 
